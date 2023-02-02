@@ -1,0 +1,7 @@
+{
+	"create" : {
+		"name" : "kp_study",
+		"numShards" : 1,
+		"replicationFactor" : 1
+	}
+}
